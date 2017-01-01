@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">StressTest</string>
+
+    <string name="score">Your Score is  </string>
+
+    <string name="play">Play Again</string>
+
+    <string name="cancel">Go Back</string>
+
+    <string name="dialog_start">Get Ready </string>
+
+    <string name="description_Table">Brush up your Multiplication Tables upto 30*30.  </string>
+
+    <string name="description_squares">Squares and Cubes upto 30, score 13 or more to move to the next level.   </string>
+
+    <string name="description_root">How good are you at Square root and Cube root upto 30? </string>
+
+    <string name="description_others">This is yet to be designed.</string>
+
+
+</resources>

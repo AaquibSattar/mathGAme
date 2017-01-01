@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF7043</color>
+    <color name="colorPrimaryDark">#FF5722</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="gridView">#FFAB91</color>
+
+    #FFAB91
+
+    <color name="magnitude1">#F44336</color>
+
+    <!-- Background color for the table category -->
+    <color name="category_tables">#F9FBE7</color>
+    <color name="category_tables_question">#E6EE9C</color>
+    <color name="answerText">#F0F4C3</color>
+
+    <!-- Background color for the squares and cubes category category -->
+    <color name="category_squares">#F3E5F5</color>
+    <color name="category_squares_question">#CE93D8</color>
+    <color name="category_squares_answer">#E1BEE7</color>
+
+    <color name="category_others">#FFFDE7</color>
+
+
+
+
+    <!-- Background color for the squarebe root category root and cu category -->
+    <color name="category_roots">#E0F7FA</color>
+    <!-- Background color for the phrases category -->
+    <color name="category_roots_Question_square">#B2EBF2</color>
+    <!-- Background color for the phrases category -->
+    <color name="category_roots_Question_cube">#80DEEA</color>
+
+    <color name="end_Color">#76FF03</color>
+    <color name="middle_Color">#FFFF00</color>
+    <color name="start_Color">#F44336</color>
+
+
+</resources>
